@@ -93,6 +93,7 @@ Our vision is to revolutionize digital pet ownership by creating a transparent, 
 - **Framework**: Aptos Framework  
 
 ## 📜 Contract Details
+
 `0x12d386cdd4cc7c5c2979d060b26a048d47f83f1e9a46a6655bf551224691c535`
 
 ![alt text](<Screenshot 2025-08-05 191221.png>)
